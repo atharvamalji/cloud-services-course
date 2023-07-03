@@ -5,4 +5,4 @@ A simple web application that provides you with quotes from few of the greatest 
 
 #### Resources download links
 
-[📦](https://emojidictionary.emojifoundation.com/package)[download the frontend dist.zip](https://google.com)
+[📦 download the frontend dist.zip](resources/dist.zip)
