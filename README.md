@@ -1,3 +1,5 @@
+assets/quotellum.png
+![Alt text](assets/quotellum.png)
 ## **Quotellum**
 
 A simple web application that provides you with quotes from few of the greatest minds.
